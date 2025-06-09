@@ -1,6 +1,6 @@
 ## Hello World! 🥂
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5qNzN5emM5M283bGY1aWx0dnhtODJjdDVzbzlkcGJtd2ZtcjlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/psCx8ScZaXvGfbbyt9/giphy.gif" width="100"/>
+  
 </div>
 
 <div id="badges">
@@ -13,13 +13,13 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RsY2QzYmYyZ2k3MDhwNmV2d205YTc2NjU3N3VuanF1OGFsOTRleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPbpOXWyB1hWAhpYwy/giphy.gif" width="480" height="271"/>
+
 </div>
 
 ---
 
 ### :man_technologist: About Me : I am a Full Stack Developer from Turkey.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :zap: In my free time, I'm streaming on Kick/Twitch.
 
