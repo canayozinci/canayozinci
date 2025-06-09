@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer from Turkey.
+### :man_technologist: About Me : I am a Developer from Turkey.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :zap: In my free time, I'm streaming on Kick/Twitch.
